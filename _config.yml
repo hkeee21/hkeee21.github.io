@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ke Hong"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/1388a94f-480d-4fec-ae39-70482750c1a7.jpg"
   bio              : "洪可"
   location         : "Beijing, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/hkeee21"
   google_plus      :
   keybase          :
   instagram        :
