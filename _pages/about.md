@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Ke Hong (洪可), a Ph.D. candidate at [NICS-EFC Lab](https://nicsefc.ee.tsinghua.edu.cn/), supervised by Prof. Yu Wang. My research interest includes machine learning systems (MLSys) and high-performance computing on GPUs. Recently, I have been engaged in optimizing the serving systems for large language models (LLMs) and visual generative models. 
+I'm Ke Hong (洪可), a Ph.D. candidate at [NICS-EFC Lab](https://nicsefc.ee.tsinghua.edu.cn/), supervised by [Prof. Yu Wang](https://scholar.google.com/citations?user=j8JGVvoAAAAJ). During my internship in the Inference Computing Group at Infinigence-AI, I am mentored by [Xiuhong Li](https://scholar.google.com/citations?user=90eREm0AAAAJ) and [Prof. Guohao Dai](https://scholar.google.com/citations?user=gz3Tkl0AAAAJ). 
 
-I have published about 20 papers, including 6 as the first/co-first author in top conferences such as MLSys, EuroSys, and NeurIPS, with a citation of <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I aim to do research that is interesting and useful.
+My research interest includes machine learning systems (MLSys) and high-performance computing on GPUs. Recently, I have been engaged in optimizing the serving systems for large language models (LLMs) and visual generative models. I have published about 20 papers, including 6 as the first/co-first author in top conferences such as MLSys, EuroSys, and NeurIPS, with a citation of <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. I hope to do research that is interesting and useful.
 
 If you are interested in any of my works or potential collaborations, feel free to reach out—I’d be happy to connect!
 
