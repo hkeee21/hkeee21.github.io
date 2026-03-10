@@ -24,6 +24,7 @@ My research interest includes machine learning systems (MLSys) and high-performa
 If you are interested in any of my works or potential collaborations, feel free to reach out—I’d be happy to connect!
 
 # 🔥 News
+- *2026.03*: &nbsp;💻 Selected for MLSys'26 Artifact Evaluation Committee. 
 - *2026.02*: &nbsp;🧨 Happy Chinese New Year!
 - *2026.01*: &nbsp;🎉 Paper *db*-SP is accepted by MLSys'26. 
 
@@ -126,12 +127,14 @@ Exploiting Hardware Utilization and Adaptive Dataflow for Sparse Convolution in 
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11* Tsinghua University Comprehensive Excellent Scholarship (First Prize), Department of Electronic Engineering, Tsinghua University. 
+- *2025.10* [Lu Daijin Excellent Teaching Assistant Award (Grand Prize)](https://www.ee.tsinghua.edu.cn/info/1076/4934.htm), Department of Electronic Engineering, Tsinghua University. 
+- *2024.01* Infinigence-AI Excellent Intern Award. 
+- *2023.11* Tsinghua University Comprehensive Excellent Scholarship (Second Prize), Shenzhen Graduate School, Tsinghua University.
+- *2022.11* Tsinghua University Comprehensive Excellent Scholarship (Second Prize), Shenzhen Graduate School, Tsinghua University.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.05 - now*, [Infinigence-AI](https://cloud.infini-ai.com/), Inference Computing Group, Beijing, China.
 
 # 🖊️ Teaching
-
-# 🏐 Hobbies
+- *2025, 2026*, Teaching Assistant for [Fundamentals of Software and Hardware Technologies for Artificial Intelligence](https://nicsefc.ee.tsinghua.edu.cn/detail.html?id=1316) of Department of Electronic Engineering, Tsinghua University.
