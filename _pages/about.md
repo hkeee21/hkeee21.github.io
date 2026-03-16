@@ -41,7 +41,7 @@ If you are interested in any of my works or potential collaborations, feel free 
 
 (* indicates equal contribution, † indicates corresponding authors.)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLSys 2026 (accepted)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLSys 2026 (accepted)</div><img src='images/db-sp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *db*-SP: Accelerating Sparse Attention for Visual Generative Models with Dual-balanced Sequence Parallelism
@@ -83,7 +83,7 @@ Tianchen Zhao *, **Ke Hong** *, Xinhao Yang *, Xuefeng Xiao, Huixia Li, Feng Lin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLSys 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLSys 2025</div><img src='images/sola.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SOLA: Optimizing SLO Attainment for Large Language Model Serving with State-Aware Scheduling
