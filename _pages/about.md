@@ -55,7 +55,7 @@ Siqi Chen *, **Ke Hong** *, Tianchen Zhao, Ruiqi Xie, Zhenhua Zhu, Xudong Zhang,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EuroSys 2026 (accepted)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EuroSys 2026 (accepted)</div><img src='images/flashoverlap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Efficient and Adaptable Overlapping for Computation
@@ -96,7 +96,7 @@ SOLA: Optimizing SLO Attainment for Large Language Model Serving with State-Awar
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLSys 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLSys 2024</div><img src='images/flashdecoding++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 FlashDecoding++: Faster Large Language Model Inference with Asynchronization, Flat GEMM Optimization, and Heuristics
