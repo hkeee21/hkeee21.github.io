@@ -51,7 +51,6 @@ Siqi Chen *, **Ke Hong** *, Tianchen Zhao, Ruiqi Xie, Zhenhua Zhu, Xudong Zhang,
 [**Paper**](https://arxiv.org/pdf/2511.23113) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> | 
 [**Code**](https://github.com/thu-nics/db-SP) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
@@ -65,12 +64,11 @@ and Communication via Signaling and Reordering
 
 [**Paper**](https://arxiv.org/pdf/2504.19519) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Code**](https://github.com/infinigence/FlashOverlap) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+ 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/paroattention.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 PAROAttention: Pattern-Aware ReOrdering for Efficient Sparse and Quantized Attention in Visual Generation Models
@@ -79,7 +77,18 @@ Tianchen Zhao *, **Ke Hong** *, Xinhao Yang *, Xuefeng Xiao, Huixia Li, Feng Lin
 
 [**Paper**](https://openreview.net/pdf?id=UPELg2oUo3) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/semipd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+semi-pd: Towards efficient llm serving via phase-wise disaggregated computation and unified storage
+
+**Ke Hong**, Lufang Chen, Zhong Wang, Xiuhong Li †, Qiuli Mao, Jianping Ma, Chao Xiong, Guanyu Wu, Buhe Han, Guohao Dai †, Yun Liang, Yu Wang †
+
+[**Paper**](https://arxiv.org/pdf/2504.19867) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> ｜[**Code**](https://github.com/infinigence/Semi-PD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 </div>
 </div>
 
@@ -92,7 +101,6 @@ SOLA: Optimizing SLO Attainment for Large Language Model Serving with State-Awar
 
 [**Paper**](https://proceedings.mlsys.org/paper_files/paper/2025/file/bc82dbfbfa43232be85b8d9838f49c3e-Paper-Conference.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
@@ -107,11 +115,10 @@ FlashDecoding++: Faster Large Language Model Inference with Asynchronization, Fl
 [**Paper**](https://proceedings.mlsys.org/paper_files/paper/2024/file/5321b1dabcd2be188d796c21b733e8c7-Paper-Conference.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Demo**](https://github.com/hkeee21/FlashDecodingPlusAE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLSys 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLSys 2023</div><img src='images/pcengine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Exploiting Hardware Utilization and Adaptive Dataflow for Sparse Convolution in 3D Point Clouds
@@ -121,7 +128,6 @@ Exploiting Hardware Utilization and Adaptive Dataflow for Sparse Convolution in 
 [**Paper**](https://proceedings.mlsys.org/paper_files/paper/2023/file/8e3e27d07b3f663b7f85c819b9692163-Paper-mlsys2023.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> |
 [**Code**](https://github.com/hkeee21/PCEngine) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
